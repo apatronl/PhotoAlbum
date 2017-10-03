@@ -1,5 +1,5 @@
 # PhotoAlbum
-This is a project I built for CS 4470: User Interface Software class at Georgia Tech.
+This is a project I built for the class CS 4470: User Interface Software at Georgia Tech.
 
 # Features
 - Gestures
