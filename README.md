@@ -18,6 +18,16 @@ Photo Album is an application built with Java, which allows you to view photos, 
 
 
 ## Annotations
+- Photos can be annotated in two different ways:
+    1. Drawing mode
+    2. Text mode (aka a post it)
+
+- To annotate a photo you first have to "flip" it by double clicking on it, then you can select "Drawing" or "Text" from the menu on the left
+- In drawing mode, you simply drag your mouse to draw anything you want
+- In text mode, you drag your mouse to create a post it, and then type anything you want
+<p align="center">
+    <img src="img/annotations.png" width="520"/>
+</p>
 
 # How to Run
 Once you have downloaded the album.jar file, run the following command:
