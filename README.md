@@ -13,7 +13,7 @@ Photo Album is an application built with Java, which allows you to view photos, 
 - Tagging
 Photos can be "tagged" by selecting one or more of Travel, Family, School, or Work on the top left corner of the application.
 <p align="center">
-    <img src="img/tags.png" width="400"/>
+    <img src="img/tags.png" width="520"/>
 </p>
 
 
